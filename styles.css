@@ -16,8 +16,8 @@ div{
     padding: 1.25em;
 }
 img{
-    width: 75%;
-    max-width: 75%;
+    width: 100%;
+    max-width: 100%;
 }
 nav{
     display: inline;
@@ -36,4 +36,8 @@ footer p{
 }
 p{
    font-size: x-large; 
+}
+ul li{
+    display: inline;
+    text-align: right;
 }
